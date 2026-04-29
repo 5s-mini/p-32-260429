@@ -1,4 +1,4 @@
-package com.back.ch3
+package ch3
 
 fun main() {
     val number = 10
